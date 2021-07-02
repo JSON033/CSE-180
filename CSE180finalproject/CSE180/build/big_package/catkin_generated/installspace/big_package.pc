@@ -1,0 +1,8 @@
+prefix=/home/jason/CSE180/install
+
+Name: big_package
+Description: Description of big_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jason/CSE180/install/lib 
+Requires: 

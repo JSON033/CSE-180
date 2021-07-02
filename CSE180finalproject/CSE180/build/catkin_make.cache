@@ -1,0 +1,2 @@
+assignments:big_package
+-DCATKIN_DEVEL_PREFIX=/home/jason/CSE180/devel -DCMAKE_INSTALL_PREFIX=/home/jason/CSE180/install -G Unix Makefiles
