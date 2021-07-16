@@ -1,5 +1,5 @@
 ## CSE-180
-# Introduction to robotics
+# Introduction to Robotics
 * Learning Outcomes:
   * Mathematical modeling of mobile robots with an emphasis on planningalgorithms
   * Fundamentals of robot sensors and sensor processing algorithms
